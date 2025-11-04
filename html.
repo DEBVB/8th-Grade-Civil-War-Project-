@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Civil War Your-Choice Project Guide</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #333;
+  }
+  header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  nav {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 220px;
+    height: calc(100% - 100px);
+    background-color: #34495e;
+    padding-top: 1rem;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  }
+  nav a {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  nav a:hover {
+    background-color: #2c3e50;
+  }
+  main {
+    margin-left: 240px;
+    padding: 2rem;
+    max-width: 1000px;
+  }
+  section {
+    margin-bottom: 3rem;
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  }
+  section h2 {
+    color: #1e3a5f;
+    border-bottom: 2px solid #c0cbd5;
+    padding-bottom: 0.5rem;
+  }
+  section h3 {
+    color: #2c4b70;
+    margin-top: 1rem;
+  }
+  p {
+    line-height: 1.6;
+  }
+  ul, ol {
+    margin-left: 1.5rem;
+  }
+  .day-plan table, .day-plan th, .day-plan td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  .day-plan th {
+    background-color: #e0e7ef;
+  }
+  .day-plan {
+    margin-top: 1rem;
+    background-color: #fdfdfd;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.05);
+  }
+  footer {
+    background-color: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  @media (max-width: 768px) {
+    nav {
+      position: static;
+      width: 100%;
+      height: auto;
+    }
+    main {
+      margin-left: 0;
+      padding: 1rem;
+    }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Civil War Your-Choice Project Guide</h1>
+  <p>Grade 8 U.S. History — Culminating Project</p>
+</header>
+
+<nav>
+  <a href="#option1">Museum Exhibit</a>
+  <a href="#option2">Podcast/Interview</a>
+  <a href="#option3">Soldier's Diary</a>
+  <a href="#option4">Monument Design</a>
+  <a href="#option5">News Project</a>
+</nav>
+
+<main>
+
+<section id="option1">
+  <h2>Option 1: Civil War Museum Exhibit</h2>
+  <p>Create a realistic museum-style display that teaches others about one theme or aspect of the Civil War.</p>
+  <h3>Suggested Materials</h3>
+  <ul>
+    <li>Poster board or tri-fold display</li>
+    <li>Printed or hand-drawn images</li>
+    <li>Index cards for artifact labels</li>
+    <li>Glue, tape, scissors, markers</li>
+    <li>Access to books or internet sources</li>
+  </ul>
+  <div class="day-plan">
+    <h3>5-Day Timeline</h3>
+    <table>
+      <tr><th>Day</th><th>Focus & Tasks</th></tr>
+      <tr><td>Day 1</td><td>Pick exhibit topic (e.g., Women in the War, Technology). Begin gathering facts, images, and possible artifacts.</td></tr>
+      <tr><td>Day 2</td><td>Select 5 key artifacts to feature. Write draft label cards (3–4 sentences each). Sketch layout of your display.</td></tr>
+      <tr><td>Day 3</td><td>Create your exhibit board or model. Add visuals, titles, and neat labeling.</td></tr>
+      <tr><td>Day 4</td><td>Write 1-page curator’s summary explaining your exhibit’s theme. Rehearse your short presentation.</td></tr>
+      <tr><td>Day 5</td><td>Present exhibit to class. Submit reflection paragraph.</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="option2">
+  <h2>Option 2: Civil War Podcast or Interview Series (NEW)</h2>
+  <p>Record a historically accurate and creative 3–5 minute podcast or interview that brings a Civil War topic to life.</p>
+  <h3>Suggested Materials</h3>
+  <ul>
+    <li>Laptop, tablet, or phone with microphone</li>
+    <li>Free audio recording app (e.g., Audacity, GarageBand, Voice Memos)</li>
+    <li>Script template or index cards</li>
+    <li>Background music or sound effects (optional)</li>
+  </ul>
+  <div class="day-plan">
+    <h3>5-Day Timeline</h3>
+    <table>
+      <tr><th>Day</th><th>Focus & Tasks</th></tr>
+      <tr><td>Day 1</td><td>Choose your topic and decide if it’s a podcast episode or character interview. Research your chosen event/person.</td></tr>
+      <tr><td>Day 2</td><td>Write your full script (intro, discussion, conclusion). Include at least 3 historical references or facts.</td></tr>
+      <tr><td>Day 3</td><td>Record your audio. Ensure clarity and pacing. Add effects or transitions if desired.</td></tr>
+      <tr><td>Day 4</td><td>Edit recording for mistakes, add background sounds, and finalize script draft.</td></tr>
+      <tr><td>Day 5</td><td>Share or play your podcast for classmates. Submit reflection paragraph.</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="option3">
+  <h2>Option 3: Civil War Soldier’s Diary</h2>
+  <p>Write a creative yet historically grounded diary that tells the story of a soldier, nurse, or freed person during the war.</p>
+  <h3>Suggested Materials</h3>
+  <ul>
+    <li>Notebook or digital document</li>
+    <li>Historical maps, timelines, or letters for inspiration</li>
+    <li>Colored pencils or pens for drawings</li>
+    <li>Optional: small journal booklet for final copy</li>
+  </ul>
+  <div class="day-plan">
+    <h3>5-Day Timeline</h3>
+    <table>
+      <tr><th>Day</th><th>Focus & Tasks</th></tr>
+      <tr><td>Day 1</td><td>Decide your character (Union soldier, Confederate nurse, freed person, etc.). Research their background.</td></tr>
+      <tr><td>Day 2</td><td>Identify 3–4 real events your character will mention. Draft first two diary entries.</td></tr>
+      <tr><td>Day 3</td><td>Write remaining 3 entries including emotions and realistic experiences.</td></tr>
+      <tr><td>Day 4</td><td>Add maps or sketches. Edit for clarity and historical accuracy.</td></tr>
+      <tr><td>Day 5</td><td>Compile final diary in booklet or typed format. Submit reflection paragraph.</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="option4">
+  <h2>Option 4: Civil War Monument or Memorial Design (NEW)</h2>
+  <p>Design a monument or memorial that honors a person, group, or event from the Civil War and explains its symbolism.</p>
+  <h3>Suggested Materials</h3>
+  <ul>
+    <li>Poster board, cardboard, or modeling clay</li>
+    <li>Sketching paper or digital design tool (Canva, Google Drawings)</li>
+    <li>Markers, rulers, paints, glue</li>
+    <li>Reference images of real monuments</li>
+  </ul>
+  <div class="day-plan">
+    <h3>5-Day Timeline</h3>
+    <table>
+      <tr><th>Day</th><th>Focus & Tasks</th></tr>
+      <tr><td>Day 1</td><td>Choose who or what your monument honors (e.g., African American troops, nurses). Research its significance.</td></tr>
+      <tr><td>Day 2</td><td>Draft 2–3 possible designs. Decide on materials, colors, and symbols. Write notes explaining each part.</td></tr>
+      <tr><td>Day 3</td><td>Build or draw your final monument. Add title and design labels.</td></tr>
+      <tr><td>Day 4</td><td>Write plaque inscription or dedication speech. Finalize your visual design.</td></tr>
+      <tr><td>Day 5</td><td>Present design to class. Submit reflection paragraph.</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="option5">
+  <h2>Option 5: Civil War News Project</h2>
+  <p>Design a historically accurate and visually engaging Civil War newspaper front page or news broadcast.</p>
+  <h3>Suggested Materials</h3>
+  <ul>
+    <li>Poster board or Google Slides / Docs</li>
+    <li>Rulers, markers, colored pencils</li>
+    <li>Access to online archives for political cartoons or primary sources</li>
+    <li>Optional: microphone and camera if creating a broadcast version</li>
+  </ul>
+  <div class="day-plan">
+    <h3>5-Day Timeline</h3>
+    <table>
+      <tr><th>Day</th><th>Focus & Tasks</th></tr>
+      <tr><td>Day 1</td><td>Choose main focus (specific battle, Lincoln’s speeches, homefront). Research key facts and events.</td></tr>
+      <tr><td>Day 2</td><td>Draft 3 news stories including quotes, summaries, and perspectives.</td></tr>
+      <tr><td>Day 3</td><td>Arrange layout with headlines, columns, images, and political cartoon.</td></tr>
+      <tr><td>Day 4</td><td>Add bylines, datelines, color. Edit for spelling and historical accuracy.</td></tr>
+      <tr><td>Day 5</td><td>Present front page or broadcast. Submit reflection paragraph.</td></tr>
+    </table>
+  </div>
+</section>
+
+<footer>
+<p>&copy; 2025 8th Grade Civil War Project Guide</p>
+</footer>
+
+</main>
+</body>
+</html>
